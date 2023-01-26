@@ -14,6 +14,11 @@ El proyecto consta en un convertidor de moneda, es decir, poner la cantidad de p
 - [![GitHub][github.com]][github-url]
 - [![VSCode][vscode.com]][vscode-url]
 
+### Imágenes ilustrativas
+![image](https://user-images.githubusercontent.com/67272806/214874354-00da7040-6f26-4050-9beb-9b3349374d9b.png)
+![image](https://user-images.githubusercontent.com/67272806/214874442-1f32a310-542f-44c1-a9a2-dab93794acb1.png)
+
+
 [angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [angular-url]: https://angular.io/
 [bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
